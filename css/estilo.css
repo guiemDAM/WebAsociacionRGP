@@ -1,15 +1,15 @@
 @font-face {
   font-family: "Noctado";
-  src: url("/css/fonts/NOCTADO.otf");
+  src: url("css/fonts/NOCTADO.otf");
 }
 
 @font-face {
-  src: url("/css/fonts/Louis-George-Cafe.ttf");
+  src: url("css/fonts/Louis-George-Cafe.ttf");
   font-family: 'Louis';
 }
 
 @font-face {
-  src: url("/css/fonts/Against-Regular.otf");
+  src: url("css/fonts/Against-Regular.otf");
   font-family: 'Regular';
 }
 
